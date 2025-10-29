@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+[new_code]
+sqlalchemy
+[new_code]
+sqlalchemy
